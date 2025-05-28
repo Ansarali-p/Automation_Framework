@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-23T08:58:48 IST" name="Suite" finished-at="2025-05-23T09:03:45 IST" duration-ms="297136">
+    <groups>
+      <group name="regression">
+        <method signature="ToCreateOrganizationTest.toCreateOrganization()[pri:0, instance:OrganizationTest.ToCreateOrganizationTest@186f8716]" name="toCreateOrganization" class="OrganizationTest.ToCreateOrganizationTest"/>
+        <method signature="ToCreateOrganizationWithIndustryDropDownTest.ToCreateOrgWithIndustryDropDown()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest@5ab9e72c]" name="ToCreateOrgWithIndustryDropDown" class="OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest"/>
+        <method signature="ToCreateOrganizationWithTwoDropDownTest.ToCreateOrgWithTwoDropDown()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithTwoDropDownTest@50caa560]" name="ToCreateOrgWithTwoDropDown" class="OrganizationTest.ToCreateOrganizationWithTwoDropDownTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2025-05-23T08:58:48 IST" name="Test" finished-at="2025-05-23T09:03:45 IST" duration-ms="297136">
+      <class name="OrganizationTest.ToCreateOrganizationWithTwoDropDownTest">
+        <test-method is-config="true" signature="beforeClassConfing()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithTwoDropDownTest@50caa560]" started-at="2025-05-23T08:58:49 IST" name="beforeClassConfing" finished-at="2025-05-23T09:01:16 IST" duration-ms="147100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfing -->
+        <test-method is-config="true" signature="beforeMethodConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithTwoDropDownTest@50caa560]" started-at="2025-05-23T09:01:16 IST" name="beforeMethodConfig" finished-at="2025-05-23T09:01:40 IST" duration-ms="24443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfig -->
+        <test-method signature="ToCreateOrgWithTwoDropDown()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithTwoDropDownTest@50caa560]" started-at="2025-05-23T09:01:40 IST" name="ToCreateOrgWithTwoDropDown" finished-at="2025-05-23T09:02:32 IST" duration-ms="51613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToCreateOrgWithTwoDropDown -->
+        <test-method is-config="true" signature="afterMethodConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithTwoDropDownTest@50caa560]" started-at="2025-05-23T09:02:32 IST" name="afterMethodConfig" finished-at="2025-05-23T09:02:36 IST" duration-ms="4594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfig -->
+        <test-method is-config="true" signature="afterClassConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithTwoDropDownTest@50caa560]" started-at="2025-05-23T09:02:36 IST" name="afterClassConfig" finished-at="2025-05-23T09:02:37 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassConfig -->
+      </class> <!-- OrganizationTest.ToCreateOrganizationWithTwoDropDownTest -->
+      <class name="OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest">
+        <test-method is-config="true" signature="beforeClassConfing()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest@5ab9e72c]" started-at="2025-05-23T09:02:37 IST" name="beforeClassConfing" finished-at="2025-05-23T09:02:42 IST" duration-ms="4846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfing -->
+        <test-method is-config="true" signature="beforeMethodConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest@5ab9e72c]" started-at="2025-05-23T09:02:42 IST" name="beforeMethodConfig" finished-at="2025-05-23T09:02:47 IST" duration-ms="5595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfig -->
+        <test-method signature="ToCreateOrgWithIndustryDropDown()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest@5ab9e72c]" started-at="2025-05-23T09:02:47 IST" name="ToCreateOrgWithIndustryDropDown" finished-at="2025-05-23T09:03:10 IST" duration-ms="22220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToCreateOrgWithIndustryDropDown -->
+        <test-method is-config="true" signature="afterMethodConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest@5ab9e72c]" started-at="2025-05-23T09:03:10 IST" name="afterMethodConfig" finished-at="2025-05-23T09:03:12 IST" duration-ms="2741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfig -->
+        <test-method is-config="true" signature="afterClassConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest@5ab9e72c]" started-at="2025-05-23T09:03:12 IST" name="afterClassConfig" finished-at="2025-05-23T09:03:13 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassConfig -->
+      </class> <!-- OrganizationTest.ToCreateOrganizationWithIndustryDropDownTest -->
+      <class name="ContactTest.ToCreateContactTest">
+        <test-method is-config="true" signature="beforeSuiteConfig()[pri:0, instance:ContactTest.ToCreateContactTest@60015ef5]" started-at="2025-05-23T08:58:48 IST" name="beforeSuiteConfig" finished-at="2025-05-23T08:58:48 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteConfig -->
+        <test-method is-config="true" signature="afterSuiteConfig()[pri:0, instance:ContactTest.ToCreateContactTest@60015ef5]" started-at="2025-05-23T09:03:46 IST" name="afterSuiteConfig" finished-at="2025-05-23T09:03:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteConfig -->
+      </class> <!-- ContactTest.ToCreateContactTest -->
+      <class name="OrganizationTest.ToCreateOrganizationTest">
+        <test-method is-config="true" signature="beforeClassConfing()[pri:0, instance:OrganizationTest.ToCreateOrganizationTest@186f8716]" started-at="2025-05-23T09:03:13 IST" name="beforeClassConfing" finished-at="2025-05-23T09:03:16 IST" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfing -->
+        <test-method is-config="true" signature="beforeMethodConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationTest@186f8716]" started-at="2025-05-23T09:03:16 IST" name="beforeMethodConfig" finished-at="2025-05-23T09:03:21 IST" duration-ms="5492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfig -->
+        <test-method signature="toCreateOrganization()[pri:0, instance:OrganizationTest.ToCreateOrganizationTest@186f8716]" started-at="2025-05-23T09:03:21 IST" name="toCreateOrganization" finished-at="2025-05-23T09:03:42 IST" duration-ms="20982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toCreateOrganization -->
+        <test-method is-config="true" signature="afterMethodConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationTest@186f8716]" started-at="2025-05-23T09:03:42 IST" name="afterMethodConfig" finished-at="2025-05-23T09:03:45 IST" duration-ms="2910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfig -->
+        <test-method is-config="true" signature="afterClassConfig()[pri:0, instance:OrganizationTest.ToCreateOrganizationTest@186f8716]" started-at="2025-05-23T09:03:45 IST" name="afterClassConfig" finished-at="2025-05-23T09:03:45 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassConfig -->
+      </class> <!-- OrganizationTest.ToCreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
